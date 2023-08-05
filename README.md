@@ -30,7 +30,8 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 
 | Title              | Link                                   |
 |--------------------|----------------------------------------|
-| SQL             | [SQL.md](./SQL.md)       |
-| Terminal             | [Terminal.md](./Terminal.md)       |
+| SQL             | [SQL.md](./SQL.md)|
+| Terminal             | [Terminal.md](./Terminal.md)|
+| Growth mindset             | [Growth.md](./Growth.md)|
 
 
