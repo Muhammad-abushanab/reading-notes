@@ -33,5 +33,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | SQL             | [SQL.md](./SQL.md)|
 | Terminal             | [Terminal.md](./Terminal.md)|
 | Growth mindset             | [Growth.md](./Growth.md)|
+| Data Structure             | [data.md](./dataStructure.md)|
 
 
