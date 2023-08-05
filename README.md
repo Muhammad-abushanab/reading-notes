@@ -34,5 +34,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Terminal             | [Terminal.md](./Terminal.md)|
 | Growth mindset             | [Growth.md](./Growth.md)|
 | Data Structure             | [data.md](./dataStructure.md)|
+| Engineering Reads            | [Enginnerg.md](./EngineeringgReads.md)|
 
 
