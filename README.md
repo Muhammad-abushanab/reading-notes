@@ -36,5 +36,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Data Structure             | [data.md](./dataStructure.md)|
 | Engineering Reads            | [Enginnerg.md](./EngineeringgReads.md)|
 | Java Fundementals Class 01             | [JavaFund.md](./ReadClass01.md)|
+| Java Fundementals Class 02             | [JavaFund2.md](./ReadClass02.md)|
 
 
