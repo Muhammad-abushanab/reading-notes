@@ -20,4 +20,22 @@ SQL, short for Structured Query Language, is a powerful language used for managi
 
 - `WHERE`: Filters data based on specified conditions.
 
+![SQL Bolt](./images/1.PNG)
+![SQL Bolt](./images/2.PNG)
+![SQL Bolt](./images/3.PNG)
+![SQL Bolt](./images/4.PNG)
+![SQL Bolt](./images/5.PNG)
+![SQL Bolt](./images/6.PNG)
+![SQL Bolt](./images/7.PNG)
+![SQL Bolt](./images/8.PNG)
+![SQL Bolt](./images/9.PNG)
+![SQL Bolt](./images/10.PNG)
+![SQL Bolt](./images/11.PNG)
+![SQL Bolt](./images/12.PNG)
+![SQL Bolt](./images/13.PNG)
+![SQL Bolt](./images/14.PNG)
+![SQL Bolt](./images/15.PNG)
+![SQL Bolt](./images/16.PNG)
+![SQL Bolt](./images/17.PNG)
+![SQL Bolt](./images/18.PNG)
 ![SQL Bolt](./images/done.PNG)
