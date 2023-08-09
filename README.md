@@ -37,5 +37,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Engineering Reads            | [Enginnerg.md](./EngineeringgReads.md)|
 | Java Fundementals Class 01             | [JavaFund.md](./ReadClass01.md)|
 | Java Fundementals Class 02             | [JavaFund2.md](./ReadClass02.md)|
+| Primitive vs Objects             | [JavaFund3.md](./ReadClass03.md)|
 
 
