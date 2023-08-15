@@ -39,5 +39,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Java Fundementals Class 02             | [JavaFund2.md](./ReadClass02.md)|
 | Primitive vs Objects             | [JavaFund3.md](./ReadClass03.md)|
 | Classes             | [JavaFund4.md](./ReadClass04.md)|
+| Linked List             | [Linked List](./LinkedList.md)|
 
 
