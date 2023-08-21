@@ -41,5 +41,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Classes             | [JavaFund4.md](./ReadClass04.md)|
 | Linked List             | [Linked List](./LinkedList.md)|
 | Desgin pattern and Static Methods            | [JavaFund6.md](./)|
+| Question in OOP            | [JavaFund7.md](./ReadClass07.md)|
 
 
