@@ -40,5 +40,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Primitive vs Objects             | [JavaFund3.md](./ReadClass03.md)|
 | Classes             | [JavaFund4.md](./ReadClass04.md)|
 | Linked List             | [Linked List](./LinkedList.md)|
+| Desgin pattern and Static Methods            | [JavaFund6.md](./)|
 
 
