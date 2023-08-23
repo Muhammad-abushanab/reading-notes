@@ -42,5 +42,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Linked List             | [Linked List](./LinkedList.md)|
 | Desgin pattern and Static Methods            | [JavaFund6.md](./ReadClass06.md)|
 | Question in OOP            | [JavaFund7.md](./ReadClass07.md)|
+| MvP And DRY            | [JavaFund8.md](./ReadClass08.md)|
 
 
