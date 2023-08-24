@@ -19,7 +19,7 @@ The client needs both the URL and DNS resolution before it can make an HTTP requ
 
 ## True or False: When making an HTTP request, you MUST follow any redirect returned by the request. Back up your answer
 
-Answer is True
+Answer is True, This is due to the way HTTP redirects are used to indicate that a resource has moved to a different location or that the requested URL should be accessed through a different URL. Following redirects helps ensure that the client accesses the correct resource and maintains a smooth user experience. Failing to follow redirects could lead to broken links, outdated content, or security vulnerabilities.
 
 ## Which built-in Java class can be used to perform an HTTP request?
 
