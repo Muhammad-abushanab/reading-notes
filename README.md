@@ -38,14 +38,15 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Java Fundementals Class 01             | [JavaFund.md](./ReadClass01.md)|
 | Java Fundementals Class 02             | [JavaFund2.md](./ReadClass02.md)|
 | Primitive vs Objects             | [JavaFund3.md](./ReadClass03.md)|
-| Classes             | [JavaFund4.md](./ReadClass04.md)|
+| Classes             | [classes](./ReadClass04.md)|
 | Linked List             | [Linked List](./LinkedList.md)|
-| Desgin pattern and Static Methods            | [JavaFund6.md](./ReadClass06.md)|
-| Question in OOP            | [JavaFund7.md](./ReadClass07.md)|
-| MvP And DRY            | [JavaFund8.md](./ReadClass08.md)|
-| HTTP protocol            | [JavaFund9.md](./ReadClass09.md)|
+| Desgin pattern and Static Methods            | [Design pattern](./ReadClass06.md)|
+| Question in OOP            | [oop](./ReadClass07.md)|
+| MvP And DRY            | [Mvp and dry](./ReadClass08.md)|
+| HTTP protocol            | [http](./ReadClass09.md)|
 | Stack and queue            | [StackAndQueue.md](./ReadClass10.md)|
-| Spring Mvc            | [StackAndQueue.md](./spring.md)|
-| Spring 12           | [StackAndQueue.md](./ReadClass12.md)|
+| Spring Mvc            | [Spring mvc](./spring.md)|
+| Spring 12           | [Spring](./ReadClass12.md)|
+| Spring MVC & MockTest          | [Spring MVC and moockTest](./ReadClass13.md)|
 
 
