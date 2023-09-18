@@ -51,5 +51,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Hashing and Bcrypt          | [Hashing and Bcrypt](./ReadClass14.md)|
 | Trees          | [Trees](./ReadClass15.md)|
 |       Authentication and Authorization    | [Authentication and Authorization](./ReadClass16.md)|
+|       O Auth    | [oAuth](./ReadClass17.md)|
 
 
