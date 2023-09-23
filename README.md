@@ -52,5 +52,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Trees          | [Trees](./ReadClass15.md)|
 |       Authentication and Authorization    | [Authentication and Authorization](./ReadClass16.md)|
 |       O Auth    | [oAuth](./ReadClass17.md)|
+|       Many To Many    | [ManyToMany](./ReadClass18.md)|
 
 
