@@ -53,5 +53,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 |       Authentication and Authorization    | [Authentication and Authorization](./ReadClass16.md)|
 |       O Auth    | [oAuth](./ReadClass17.md)|
 |       Many To Many    | [ManyToMany](./ReadClass18.md)|
+|       Purly Function programmin    | [PurlyFunction](./ReadClass19.md)|
 
 
