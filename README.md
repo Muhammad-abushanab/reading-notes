@@ -57,3 +57,4 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Many To Many                      | [ManyToMany](./ReadClass18.md)                       |
 | Purly Function programmin         | [PurlyFunction](./ReadClass19.md)                    |
 | Android fundmental         | [Android fundmental](./ReadClass20.md)                    |
+| Shared prefrences         | [Shared prefrences](./ReadClass27.md)                    |
