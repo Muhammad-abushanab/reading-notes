@@ -59,3 +59,4 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Android fundmental         | [Android fundmental](./ReadClass20.md)                    |
 | Shared prefrences         | [Shared prefrences](./ReadClass27.md)                    |
 | RecyclerView         | [RecyclerView](./ReadClass28.md)                    |
+| Data access object         | [DAO](./ReadClass29.md)                    |
