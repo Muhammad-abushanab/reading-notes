@@ -60,3 +60,4 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Shared prefrences         | [Shared prefrences](./ReadClass27.md)                    |
 | RecyclerView         | [RecyclerView](./ReadClass28.md)                    |
 | Data access object         | [DAO](./ReadClass29.md)                    |
+| Hash Table         | [Hash Table](./ReadClass30.md)                    |
