@@ -62,3 +62,4 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Data access object         | [DAO](./ReadClass29.md)                    |
 | Hash Table         | [Hash Table](./ReadClass30.md)                    |
 | Aws Amplify         | [AWS amplify](./ReadClass31.md)                    |
+| ServerLess         | [ServerLess](./ReadClass32.md)                    |
