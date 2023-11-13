@@ -64,3 +64,4 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Aws Amplify         | [AWS amplify](./ReadClass31.md)                    |
 | ServerLess         | [ServerLess](./ReadClass32.md)                    |
 | Asynchrouns         | [Asynchrouns](./ReadClass33.md)                    |
+| Releases         | [Releases](./ReadClass34.md)                    |
