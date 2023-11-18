@@ -66,3 +66,4 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Asynchrouns         | [Asynchrouns](./ReadClass33.md)                    |
 | Releases         | [Releases](./ReadClass34.md)                    |
 | Graph         | [Graph](./Graph.md)                    |
+| Graph         | [Amplify and Cognito](./ReadClass35.md)                    |
