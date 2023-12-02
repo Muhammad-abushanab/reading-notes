@@ -68,5 +68,6 @@ Welcome to the **Reading Notes** repository, your personal hub for tracking and 
 | Graph         | [Graph](./Graph.md)                    |
 | Graph         | [Amplify and Cognito](./ReadClass35.md)                    |
 | Amplify and S3         | [Amplify and S3](./ReadClass37.md)                    |
-| intent Filters         | [intent Filters](./ReadClass38.md)                    |
+| intent Filters         | [intent Filters](./ReadClass38.md)                    
+| Get location         | [Get location](./ReadClass39.md)                    |
 | Amazon pinpoint         | [pinpoint](./ReadClass41.md)                    |
